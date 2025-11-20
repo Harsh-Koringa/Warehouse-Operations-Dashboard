@@ -1,0 +1,11 @@
+warehouse_id,name,capacity_kg,latitude,longitude,sku_types,used_capacity_kg,free_capacity_kg
+WH01,Warehouse_1,10000,23.383071,72.756995,"oilseeds,spices",6073,3927
+WH02,Warehouse_2,5000,22.747296,72.217867,all,2649,2351
+WH03,Warehouse_3,15000,23.188958,72.187868,all,9702,5298
+WH04,Warehouse_4,20000,22.792371,72.31686,"oilseeds,grains",12787,7213
+WH05,Warehouse_5,10000,23.042305,72.516956,"oilseeds,grains",8423,1577
+WH06,Warehouse_6,15000,22.734095,72.405116,"grains,spices",10847,4153
+WH07,Warehouse_7,10000,23.250641,72.331139,"grains,spices",5793,4207
+WH08,Warehouse_8,15000,22.65966,72.657436,"oilseeds,grains",10301,4699
+WH09,Warehouse_9,5000,23.381608,72.943906,all,3911,1089
+WH10,Warehouse_10,10000,22.700638,72.718786,"grains,spices",5481,4519
